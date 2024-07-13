@@ -18,6 +18,8 @@ Required Features needed in the system.
 5.  Set the end time
 6.  Set the chair booking capability
 7.  Define the room number
-
+   !NOTE:
+   there is the code with the library
+ 
    ## Layout of the room:
    ![image](https://github.com/nandanaap/room-allotment-and-booking/assets/139910211/5a1604bc-200e-41c0-8e42-99bfa9394372)
