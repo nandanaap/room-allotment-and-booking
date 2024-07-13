@@ -10,6 +10,7 @@ A Bare Bone System has to be made which is capable of booking a room and also ab
 to check for the room status as well. The room spaces are made to be customisable
 and can be chosen according to needs and purpose
 Required Features needed in the system.
+@octocat :+1: Easy to use and understand! :shipit:
 ### Scheduling capabilities:
 1.  Display day date time
 2.  Book a room
